@@ -1,5 +1,5 @@
 # Database management system using Tkinter
-This is a MY BOOKS app build using python.
+This a database application made using python modules and libraries like Tkinter, Pandas, Sqlite3, Csv, Fpdf.
 
 ## Installation
 
