@@ -5,8 +5,8 @@ This project has following featueres:
 * Adding, Updating, Deleting data.
 * Searching the database with filters.
 * Exporting to:
-* * PDF
-* * CSV
+  * PDF
+  * CSV
 * Admin Authentication.
 
 
